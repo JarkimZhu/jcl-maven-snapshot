@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed May 31 15:38:17 CST 2017
+protocol-json-0.1.0-SNAPSHOT.pom>=
+protocol-json-0.1.0-SNAPSHOT-sources.jar>=
+protocol-json-0.1.0-SNAPSHOT.jar>=
